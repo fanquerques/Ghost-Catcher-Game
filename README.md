@@ -9,4 +9,4 @@ To help balance the difficulty level, the game includes a Reset Speed button,
 which allows the player to reset the moving interval to its initial value if the game becomes too challenging. Additionally, 
 the game includes a Reset Score button, which enables the player to reset their score and start again from scratch if they choose to do so.
 
-Here is the link for preview: file:///C:/Users/maily/Desktop/COMP%20125/assignments/A3-FanYang/index.html
+Here is the link for preview: http://studentweb.cencol.ca/fyang56/A3-FanYang/index.html 
